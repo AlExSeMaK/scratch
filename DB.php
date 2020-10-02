@@ -9,7 +9,6 @@ class DB
     private const PASSWORD = 'root';
     private const COD_ERROR = 0;
 
-
     public static function query(){
         try{
             return  new PDO("mysql:host=".self::HOST.";dbname=".self::DBNAME, self::USERNAME, self::PASSWORD);
