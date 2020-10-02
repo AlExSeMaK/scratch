@@ -10,10 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67214c4-e5af-4e5a-848a-53a40a2b2b69" name="Default Changelist" comment="Add loger">
+    <list default="true" id="d67214c4-e5af-4e5a-848a-53a40a2b2b69" name="Default Changelist" comment="Add logger">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch_4.php" beforeDir="false" afterPath="$PROJECT_DIR$/scratch_4.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <workItem from="1601596994596" duration="755000" />
       <workItem from="1601598036126" duration="662000" />
       <workItem from="1601602147782" duration="1589000" />
-      <workItem from="1601604228372" duration="391000" />
+      <workItem from="1601604228372" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1601598087181</created>
@@ -78,7 +76,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601603534610</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add logger">
+      <created>1601604689090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601604689090</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add logger">
+      <created>1601604787294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601604787294</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add logger">
+      <created>1601604845925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601604845925</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,16 +118,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Add loger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add loger" />
+    <MESSAGE value="Add logger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add logger" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="336" y="366" key="#SQL_Dialects" timestamp="1601604966556">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="336" y="366" key="#SQL_Dialects/0.0.1920.1050/-1360.130.1360.738@0.0.1920.1050" timestamp="1601604966556" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601604991921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1360.130.1360.738@0.0.1920.1050" timestamp="1601604991921" />
+    <state x="598" y="286" key="MultipleFileMergeDialog" timestamp="1601604727354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="598" y="286" key="MultipleFileMergeDialog/0.0.1920.1050/-1360.130.1360.738@0.0.1920.1050" timestamp="1601604727354" />
     <state x="-868" y="221" key="NewPhpClassDialog" timestamp="1601563434771">
       <screen x="-1360" y="130" width="1360" height="738" />
     </state>
     <state x="-868" y="221" key="NewPhpClassDialog/0.0.1920.1050/-1360.130.1360.738@-1360.130.1360.738" timestamp="1601563434771" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1601603542749">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1601604847624">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1360.130.1360.738@0.0.1920.1050" timestamp="1601603542749" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1360.130.1360.738@0.0.1920.1050" timestamp="1601604847624" />
   </component>
 </project>

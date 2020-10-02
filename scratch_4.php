@@ -11,10 +11,11 @@ if (isset($post['order_id'])) {
     }
     else{
         $order = $connect->prepare("
-        SELECT o1.`order_id`, o2.`order_status`
-        FROM `orders` o1
-        INNER JOIN `orders` o2 ON o2.`order_id` = o1.`order_id`
-        WHERE o1.`order_id` = :orderId");
+            SELECT o1.`order_id`, o2.`order_status`
+            FROM `orders` o1
+            INNER JOIN `orders` o2 ON o2.`order_id` = o1.`order_id`
+            WHERE o1.`order_id` = :orderId
+        ");
         $order->execute([
             ':orderId' => $orderId
         ]);
