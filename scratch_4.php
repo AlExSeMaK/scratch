@@ -35,5 +35,5 @@ if (isset($post['order_id'])) {
 
 function sendJson($array)
 {
-    print_r(json_encode($array));
+    var_dump(json_encode($array, JSON_UNESCAPED_UNICODE));
 }
