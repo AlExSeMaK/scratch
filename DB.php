@@ -15,7 +15,7 @@ class DB
             return  new PDO("mysql:host=".self::HOST.";dbname=".self::DBNAME, self::USERNAME, self::PASSWORD);
         }
         catch (PDOException $e){
-            var_dump("Error: ".$e->getMessage());
+            file_put_contents(__DIR__.'/log.txt',"Error: ".$e->getMessage().PHP_EOL, FILE_APPEND);
             return self::COD_ERROR;
         }
 

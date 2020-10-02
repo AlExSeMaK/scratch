@@ -1,7 +1,8 @@
 <?php
+require_once('DB.php');
 $post = $_POST;
-$connect = DB::query();
-
+$db = new DB;
+$connect = $db::query();
 
 if (isset($post['order_id'])) {
     $orderId = $post['order_id'];
