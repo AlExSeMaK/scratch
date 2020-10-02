@@ -1,4 +1,0 @@
-
-Error: SQLSTATE[HY000] [1049] Unknown database 'test'
-Error: SQLSTATE[HY000] [1049] Unknown database 'test'
-Error: SQLSTATE[HY000] [1049] Unknown database 'test'
